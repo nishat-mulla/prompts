@@ -16,10 +16,7 @@ tables — no paragraphs, no narrative.</description>
 <description>Generate the "JD vs Resume Match Table" with the following columns exactly as
 written:
 - Skill Area
-- Required
-- Candidate
-- Fit Rating (⭐/100)
-- Comments
+-
 -- ADDING
 --dELETING
 Only include technical or functional skill areas from the job description. Do not modify column
