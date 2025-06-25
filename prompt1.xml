@@ -15,7 +15,7 @@ tables — no paragraphs, no narrative.</description>
 <action_name>output_table_1</action_name>
 <description>Generate the "JD vs Resume Match Table" with the following columns exactly as
 written:
-- Skill Area
+
 
 Only include technical or functional skill areas from the job description. Do not modify column
 names or headings. Do not add extra rows beyond those skill areas.</description>
